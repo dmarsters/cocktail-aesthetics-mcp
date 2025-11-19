@@ -1,0 +1,10 @@
+// cereal-box-mcp/src/data/categories.json
+{
+  "mascot_theater": { /* full definition */ },
+  "health_halo": { /* full definition */ },
+  "nostalgia_revival": { /* full definition */ },
+  "premium_disruptor": { /* full definition */ },
+  "kid_chaos": { /* full definition */ },
+  "transparent_honest": { /* full definition */ },
+  "adventure_fantasy": { /* full definition */ }
+}

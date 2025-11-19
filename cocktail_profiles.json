@@ -1,0 +1,186 @@
+{
+  "negroni": {
+    "name": "Negroni",
+    "spirit_base": "gin",
+    "primary_flavor": "bitter",
+    "flavor_profile": {
+      "complexity": "simple",
+      "bitterness": 8,
+      "sweetness": 3,
+      "richness": 6,
+      "warmth_level": 5
+    },
+    "visual_parameters": {
+      "primary_color": "ruby",
+      "color_palette": ["#8B1A1A", "#D2691E", "#FFA500"],
+      "lighting": "warm_side_lit",
+      "mood": "sophisticated",
+      "secondary_moods": ["elegant"],
+      "composition": "balanced",
+      "texture": "translucent",
+      "temperature": "ambient"
+    },
+    "description": "Classic aperitivo: gin, Campari, vermouth rosso. Bitter, bold, balanced."
+  },
+  "mai_tai": {
+    "name": "Mai Tai",
+    "spirit_base": "rum",
+    "primary_flavor": "fruity",
+    "flavor_profile": {
+      "complexity": "complex",
+      "bitterness": 2,
+      "sweetness": 6,
+      "richness": 8,
+      "warmth_level": 9
+    },
+    "visual_parameters": {
+      "primary_color": "tropical",
+      "color_palette": ["#FF6B35", "#F7931E", "#8B4513", "#00A86B"],
+      "lighting": "tiki_torch",
+      "mood": "tropical",
+      "secondary_moods": ["aromatic", "playful"],
+      "composition": "layered",
+      "texture": "translucent",
+      "temperature": "warm"
+    },
+    "description": "Tiki classic: aged rum, lime, orgeat, curaçao. Sweet, tropical, complex."
+  },
+  "daiquiri": {
+    "name": "Daiquiri",
+    "spirit_base": "rum",
+    "primary_flavor": "sour",
+    "flavor_profile": {
+      "complexity": "simple",
+      "bitterness": 1,
+      "sweetness": 3,
+      "richness": 3,
+      "warmth_level": 9
+    },
+    "visual_parameters": {
+      "primary_color": "clear",
+      "color_palette": ["#FFF8DC", "#FFE4B5", "#F0E68C"],
+      "lighting": "crisp_backlit",
+      "mood": "elegant",
+      "secondary_moods": [],
+      "composition": "minimalist",
+      "texture": "translucent",
+      "temperature": "cool"
+    },
+    "description": "Elegant simplicity: white rum, fresh lime, simple syrup."
+  },
+  "old_fashioned": {
+    "name": "Old Fashioned",
+    "spirit_base": "whiskey",
+    "primary_flavor": "spirit_forward",
+    "flavor_profile": {
+      "complexity": "simple",
+      "bitterness": 4,
+      "sweetness": 2,
+      "richness": 7,
+      "warmth_level": 8
+    },
+    "visual_parameters": {
+      "primary_color": "amber",
+      "color_palette": ["#8B4513", "#A0522D", "#654321"],
+      "lighting": "moody_amber",
+      "mood": "sophisticated",
+      "secondary_moods": ["elegant"],
+      "composition": "balanced",
+      "texture": "oily",
+      "temperature": "warm"
+    },
+    "description": "Timeless classic: whiskey, sugar, bitters, orange twist."
+  },
+  "mojito": {
+    "name": "Mojito",
+    "spirit_base": "rum",
+    "primary_flavor": "herbal",
+    "flavor_profile": {
+      "complexity": "moderate",
+      "bitterness": 1,
+      "sweetness": 4,
+      "richness": 2,
+      "warmth_level": 9
+    },
+    "visual_parameters": {
+      "primary_color": "green",
+      "color_palette": ["#00AA66", "#FFE4B5", "#FFFFFF"],
+      "lighting": "diffused_soft",
+      "mood": "tropical",
+      "secondary_moods": ["playful"],
+      "composition": "garnish_focused",
+      "texture": "effervescent",
+      "temperature": "cool"
+    },
+    "description": "Refreshing summer drink: white rum, mint, lime, soda, sugar."
+  },
+  "margarita": {
+    "name": "Margarita",
+    "spirit_base": "tequila",
+    "primary_flavor": "sour",
+    "flavor_profile": {
+      "complexity": "moderate",
+      "bitterness": 0,
+      "sweetness": 4,
+      "richness": 3,
+      "warmth_level": 7
+    },
+    "visual_parameters": {
+      "primary_color": "tropical",
+      "color_palette": ["#FFE4B5", "#FFA500", "#FF6347"],
+      "lighting": "golden_hour",
+      "mood": "tropical",
+      "secondary_moods": ["playful"],
+      "composition": "balanced",
+      "texture": "crystalline",
+      "temperature": "cool"
+    },
+    "description": "Iconic: tequila, lime, triple sec, salt rim."
+  },
+  "espresso_martini": {
+    "name": "Espresso Martini",
+    "spirit_base": "vodka",
+    "primary_flavor": "bitter",
+    "flavor_profile": {
+      "complexity": "moderate",
+      "bitterness": 6,
+      "sweetness": 5,
+      "richness": 8,
+      "warmth_level": 3
+    },
+    "visual_parameters": {
+      "primary_color": "dark",
+      "color_palette": ["#2F4F4F", "#8B7355", "#FFFFFF"],
+      "lighting": "moody_amber",
+      "mood": "sophisticated",
+      "secondary_moods": ["elegant", "aromatic"],
+      "composition": "balanced",
+      "texture": "creamy",
+      "temperature": "ambient"
+    },
+    "description": "Modern sophistication: vodka, coffee liqueur, espresso, cream."
+  },
+  "sazerac": {
+    "name": "Sazerac",
+    "spirit_base": "whiskey",
+    "primary_flavor": "herbal",
+    "flavor_profile": {
+      "complexity": "simple",
+      "bitterness": 5,
+      "sweetness": 1,
+      "richness": 6,
+      "warmth_level": 8
+    },
+    "visual_parameters": {
+      "primary_color": "amber",
+      "color_palette": ["#A0522D", "#8B4513", "#FFD700"],
+      "lighting": "golden_hour",
+      "mood": "sophisticated",
+      "secondary_moods": ["aromatic"],
+      "composition": "balanced",
+      "texture": "translucent",
+      "temperature": "warm"
+    },
+    "description": "New Orleans classic: rye, absinthe, Peychaud's bitters."
+  }
+}
